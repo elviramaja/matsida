@@ -24,7 +24,7 @@ transform: translate(0%, -50%);
 }
 
 .slider-button:hover {
-    color: rgb(red, green, blue)(176, 255, 169);
+    color: rgb(176, 255, 169);
 }
 
 .display-left {
